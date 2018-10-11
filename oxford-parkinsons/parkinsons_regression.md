@@ -4,13 +4,13 @@ Abstract: Oxford Parkinson's Disease Telemonitoring Dataset
 
 ============================================================
 
-Data Set Characteristics:  Multivariate
-Attribute Characteristics:  Integer, Real
-Associated Tasks:  Regression
-Number of Instances:  5875
-Number of Attributes:  26
-Area:  Life
-Date Donated:  2009-10-29
+ - Data Set Characteristics:  Multivariate
+- Attribute Characteristics:  Integer, Real
+- Associated Tasks:  Regression
+- Number of Instances:  5875
+- Number of Attributes:  26
+- Area:  Life
+- Date Donated:  2009-10-29
 
 ============================================================
 
